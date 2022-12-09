@@ -6,7 +6,7 @@ Most functionalities of this client is similar to the Ethereum golang implementa
 
 Download the source as
 ```
-git clone https://github.com/BDLS-bft/BDLSChain.gitt
+git clone https://github.com/BDLS-bft/BDLSChain.git
 cd BDLSChain/cmd/geth
 go build .
 ```
